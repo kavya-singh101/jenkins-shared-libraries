@@ -1,3 +1,3 @@
-def close(){
+def hello(){
   echo "hello world"
 }
